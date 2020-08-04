@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "pxt-kitronik-halohd": "github:kitronikltd/pxt-kitronik-halohd#v0.1.6"
+        "pxt-kitronik-halohd": "github:kitronikltd/pxt-kitronik-halohd#v0.1.6",
+        "startbit": "github:lobot-robot/startbit#174be9b29cf4c1998f0a8e88b06d69e795490bf7"
     },
     "files": [
         "main.blocks",
